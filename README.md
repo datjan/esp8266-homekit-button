@@ -16,6 +16,7 @@ D1 mini -> Button (Pin A, Pin B)
 D1 -> Button Pin A
 GND -> Button Pin B
 ```
+![alt text](https://github.com/datjan/esp8266-homekit-button/blob/main/Schema.png?raw=true)
 
 ## Development
 This sketch is for following development environment
